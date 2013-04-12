@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("Testing Git V2!"); /* prints !!!Hello World!!! */
+	puts("Testing Git V3!"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
